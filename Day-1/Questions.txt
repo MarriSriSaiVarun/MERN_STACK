@@ -1,0 +1,22 @@
+1.HTML
+    html means Hyper Text Markup Language. It is used to design webpages and it only contains the text and follows some syntax, but it doesn't exicutes the block if the syntax is wrong.
+
+
+2.HTML elements
+    The html elements are the building blocks of the HTML pages. they define the structure and content of the webpage. An HTML element typically consists of start tag, content, end tag. The end tag is similar to the start tag but it includes the forward slash.
+
+
+3.HTML tags
+    There are several tags in HTML some of them are <p>,<h1>,<h2>,<h3>,<h4>,<h5>,<h6>,<button>,<div>,<a> etc...,
+
+
+4.Attributes
+    An Attribute is a key and it contains a value which chnages the function of an element. Some of the Attributes are href="paste your link here",src="paste your link here".
+
+
+5.Paragraph element 
+    The content that written inside the pragraph tag will displays on the webpage. It only displays the content in text format.
+
+
+6.Anchor element    
+    The Anchor tag is used to convert the content into a text button which goes to the desired page by giving the link in the Attribute named href or src. These are used to go to the destination page which was given in the html Attribute it chanages the funtionality of the element. 
